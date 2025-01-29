@@ -1,5 +1,5 @@
 - whoami; @wldfngrs/oldmanclancy whichever feels right.
-- studying; low level software development, you can check my writing on that on [Crux of The Matter](https://cruxofthematter.substack.com) 
+- you can check my writing on [Crux of The Matter](https://cruxofthematter.substack.com) 
 - reach me on; wldfngrs@gmail.com
 
 
